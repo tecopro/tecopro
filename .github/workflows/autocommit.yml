@@ -19,8 +19,8 @@ jobs:
           echo $d > LAST_UPDATED
       - name: Commit changes
         run: |
-          git config --local user.email "suluh.webdevelopers@hotmail.com"
-          git config --local user.name "sProDev"
+          git config --local user.email "tecopro.nepal@gmail.com"
+          git config --local user.name "Technology Community"
           git add -A
 
           arr[0]="feat: 😂 auto commit"

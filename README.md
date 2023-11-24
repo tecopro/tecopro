@@ -13,8 +13,6 @@
 
 ## :call_me_hand: Connect With Us
 
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/tecopro) -->
-[![Email](https://img.shields.io/badge/Email-%23bb001b.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecopro.nepal@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%238a3ab9.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teco.pro)
 [![Website](https://img.shields.io/badge/Website-%23ffffff.svg?style=for-the-badge&logo=google-chrome&logoColor=black)](https://teco.smkn1pml.sch.id)
 [![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMe6MkEYMzLSiucVpd23YBA)
